@@ -8,4 +8,4 @@ See demo here http://bootstrap.theazs.com/
 Learn how to create WordPress themes and plugin
 and many more at <a href="http://referrals.trhou.se/mdatiquzzamansoikat">Treehouse</a>
 
-You can find me on twitter <a href="twitter.com/soikat">@soikat<a/>
+You can find me on twitter <a href="http://twitter.com/soikat">@soikat<a/>

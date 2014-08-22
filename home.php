@@ -68,6 +68,7 @@
           </div>
           <p>Nothing to show!</p>
         <?php endif; ?>
+        <?php easy_pagination(); ?>
         </div>
 
         <?php get_sidebar('blog'); ?>

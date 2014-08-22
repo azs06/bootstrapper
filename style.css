@@ -95,4 +95,14 @@ body {
     top: 0;
     width: 50%; /* 6 columns */
   }
+
+}
+@media screen and (min-width:768px){
+  .searchfour .form-group {
+    float: right;
+}
+}
+
+.pokemon img{
+  max-width:100%;
 }

@@ -4,7 +4,7 @@ Template Name: Portfolio Page Template
 */
 ?>
 <?php get_header(); ?>
-    <div class="container">
+    <div class="container portfolio">
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-12">

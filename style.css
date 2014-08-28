@@ -106,3 +106,6 @@ body {
 .pokemon img{
   max-width:100%;
 }
+.widget ul li{
+  list-style: none;
+}
